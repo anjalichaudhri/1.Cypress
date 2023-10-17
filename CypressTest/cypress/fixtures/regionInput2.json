@@ -1,0 +1,19 @@
+{
+  "name": "Anjali automation region 2",
+  "supportEmail": "anjalinonerole@yopmail.com",
+  "materialOrderEmail": "anjalinonerole@yopmail.com",
+  "regionGroupId": "Anjali Group",
+  "primaryLanguage": "Thai",
+  "gsVersionGroupId": "GSv4",
+  "lsVersionGroupId": "LSv1",
+  "currency": "RUB",
+  "status": "Test",
+  "gsLessonPlanVersionId": "Ankit 1",
+  "repMethodologyVersionId": "2nd REP GSv4 lesson plan",
+  "remoteLessonPlanVersionId": "ActivityRemote-13796",
+  "digitalLessonPlanVersionId": "April digital",
+  "billingDay": "5",
+  "billingPeriod": "4",
+  "billingStartDay": "2",
+  "billingStartMonth": "Mar"
+}

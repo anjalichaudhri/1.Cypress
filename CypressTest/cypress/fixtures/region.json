@@ -1,0 +1,20 @@
+{
+  "name": "RegionName",
+  "englishName": "AutoRegion",
+  "supportEmail": "grapeseedautomation@gmail.com",
+  "materialOrderEmail": "grapeseedautomation@gmail.com",
+  "regionGroupId": "Anjali Group",
+  "primaryLanguage": "Thai",
+  "gsVersionGroupId": "GSv4",
+  "lsVersionGroupId": "LSv1",
+  "currency": "USD",
+  "status": "Test",
+  "gsLessonPlanVersionId": "Remote Classic plan",
+  "repMethodologyVersionId": "ActivityRep",
+  "remoteLessonPlanVersionId": "Ankit LP",
+  "digitalLessonPlanVersionId": "Digital Lesson plan",
+  "billingDay": "5",
+  "billingPeriod": "10",
+  "billingStartDay": "5",
+  "billingStartMonth": "Jan"
+}
