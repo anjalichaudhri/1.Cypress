@@ -51,7 +51,7 @@ describe("checkbox dropdown practice", function () {
     cy.get("select").select("option2").should("have.value", "option2");
     cy.get("#autocomplete").type("ind");
     cy.get(".ui-menu-item div").each(($el, index, $list) => {
-      if ($el.text() === "India") {
+      if ($el.contains(text(), "India")) {
         cy.wrap($el).click();
       }
     });
